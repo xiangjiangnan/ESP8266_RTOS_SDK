@@ -1,14 +1,21 @@
 gwen:
-    espnow:     1aafc07
-    main:       4e7f435
-    mesh:       1aafc07
-    net80211:   730c7f0
-    pp:         1474356
-    wpa:        730c7f0
-    wps:        1aafc07
+    crypto:     9ec59b5
+    espnow:     79c549f
+    main:       52b3b54
+    minic:      9ec59b5
+    net80211:   52b3b54
+    pp:         1155a0b
+    pwm:        9ec59b5
+    smartconfig:9ec59b5
+    wpa:        52b3b54
+    wps:        ff84a8b
 
 gitlab:
     espconn:    3a998034
-    lwip:       2235ad17
+    freertos:   a9985a9c
+    lwip:       1651e055
     driver:     7bee5263
     mbedtls:    1ac9f1f4
+    ssl:        eefb383a
+    openssl:    1669353f
+    nopoll:     31f0ea07
